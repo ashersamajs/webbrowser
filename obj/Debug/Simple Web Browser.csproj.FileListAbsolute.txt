@@ -1,0 +1,10 @@
+C:\Users\Jago\source\repos\Simple Web Browser\Simple Web Browser\bin\Debug\Simple Web Browser.exe.config
+C:\Users\Jago\source\repos\Simple Web Browser\Simple Web Browser\bin\Debug\Simple Web Browser.exe
+C:\Users\Jago\source\repos\Simple Web Browser\Simple Web Browser\bin\Debug\Simple Web Browser.pdb
+C:\Users\Jago\source\repos\Simple Web Browser\Simple Web Browser\obj\Debug\Simple Web Browser.csprojResolveAssemblyReference.cache
+C:\Users\Jago\source\repos\Simple Web Browser\Simple Web Browser\obj\Debug\Simple_Web_Browser.Form1.resources
+C:\Users\Jago\source\repos\Simple Web Browser\Simple Web Browser\obj\Debug\Simple_Web_Browser.Properties.Resources.resources
+C:\Users\Jago\source\repos\Simple Web Browser\Simple Web Browser\obj\Debug\Simple Web Browser.csproj.GenerateResource.Cache
+C:\Users\Jago\source\repos\Simple Web Browser\Simple Web Browser\obj\Debug\Simple Web Browser.csproj.CoreCompileInputs.cache
+C:\Users\Jago\source\repos\Simple Web Browser\Simple Web Browser\obj\Debug\Simple Web Browser.exe
+C:\Users\Jago\source\repos\Simple Web Browser\Simple Web Browser\obj\Debug\Simple Web Browser.pdb
